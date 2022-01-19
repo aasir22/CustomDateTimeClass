@@ -1,0 +1,32 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 2 products, 1 sources, 3 libraries
+[debug] current source = Set(${BASE}/DateTimeWithNscala/src/main/scala/com/datetimewithnscala/DateTimeClass.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/DateTimeWithNscala/src/main/scala/com/datetimewithnscala/DateTimeClass.scala), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] 
+[debug] Initial source changes:
+[debug] 	removed: Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(${BASE}/DateTimeWithNscala/src/main/scala/com/datetimewithnscala/DateTimeClass.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(com.datetimewithnscala.DateTimeClass, com.datetimewithnscala.WrongTypeException)
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] all 1 sources are invalidated
+[debug] Initial set of included nodes: com.datetimewithnscala.DateTimeClass, com.datetimewithnscala.WrongTypeException
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[debug] compilation cycle 1
+[info] compiling 1 Scala source to C:\Users\LENOVO\Desktop\InternTraining\InternProject\DateTimeWithNscala\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.6.0:compile for Scala 2.13.8
+[debug] [zinc] Running cached compiler 3fa9ee1d for Scala compiler version 2.13.8
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Users\LENOVO\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.8\scala-library-2.13.8.jar
+[debug] 	-classpath
+[debug] 	C:\Users\LENOVO\Desktop\InternTraining\InternProject\DateTimeWithNscala\target\scala-2.13\classes;C:\Users\LENOVO\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\com\github\nscala-time\nscala-time_2.13\2.30.0\nscala-time_2.13-2.30.0.jar;C:\Users\LENOVO\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\joda-time\joda-time\2.10.12\joda-time-2.10.12.jar;C:\Users\LENOVO\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\joda\joda-convert\2.2.1\joda-convert-2.2.1.jar
+[debug] Scala compilation took 0.2517769 s
+[info] done compiling

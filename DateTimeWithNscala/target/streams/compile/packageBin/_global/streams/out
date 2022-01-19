@@ -1,0 +1,11 @@
+[debug] Packaging C:\Users\LENOVO\Desktop\InternTraining\InternProject\DateTimeWithNscala\target\scala-2.13\datetimewithnscala_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  C:\Users\LENOVO\Desktop\InternTraining\InternProject\DateTimeWithNscala\target\scala-2.13\classes\com
+[debug] 	com\datetimewithnscala
+[debug] 	  C:\Users\LENOVO\Desktop\InternTraining\InternProject\DateTimeWithNscala\target\scala-2.13\classes\com\datetimewithnscala
+[debug] 	com\datetimewithnscala\DateTimeClass.class
+[debug] 	  C:\Users\LENOVO\Desktop\InternTraining\InternProject\DateTimeWithNscala\target\scala-2.13\classes\com\datetimewithnscala\DateTimeClass.class
+[debug] 	com\datetimewithnscala\WrongTypeException.class
+[debug] 	  C:\Users\LENOVO\Desktop\InternTraining\InternProject\DateTimeWithNscala\target\scala-2.13\classes\com\datetimewithnscala\WrongTypeException.class
+[debug] Done packaging.
